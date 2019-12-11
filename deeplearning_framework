@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T12:56:59.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="uJmDPhrsQCW89Z160UMg" version="12.3.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-11T13:11:45.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pGbKToW0nWHdJJt1MSPL" version="12.3.9" type="github" pages="2">
   <diagram id="uhCr4P5UeGFcOJNku7Ct" name="Page-1">
     <mxGraphModel dx="1186" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,8 +42,20 @@
       <root>
         <mxCell id="uPQeGjoNpP5gOHGaLRzv-0"/>
         <mxCell id="uPQeGjoNpP5gOHGaLRzv-1" parent="uPQeGjoNpP5gOHGaLRzv-0"/>
-        <mxCell id="uPQeGjoNpP5gOHGaLRzv-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=20;" vertex="1" parent="uPQeGjoNpP5gOHGaLRzv-1">
-          <mxGeometry x="593" y="239" width="50" height="30" as="geometry"/>
+        <mxCell id="0OCMSysg3iC6UMJeqHLi-0" value="大数据的收集、标注等预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="uPQeGjoNpP5gOHGaLRzv-1">
+          <mxGeometry x="70" y="180" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="IXaTjtrLvQHY2eTWz5YU-0" value="通过深度学习框架进行训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="uPQeGjoNpP5gOHGaLRzv-1">
+          <mxGeometry x="320" y="180" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="IXaTjtrLvQHY2eTWz5YU-1" value="通过深度学习框架进行预测（部署）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="uPQeGjoNpP5gOHGaLRzv-1">
+          <mxGeometry x="590" y="180" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="IXaTjtrLvQHY2eTWz5YU-2" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;" edge="1" parent="uPQeGjoNpP5gOHGaLRzv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="sourcePoint"/>
+            <mxPoint x="140" y="310" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
